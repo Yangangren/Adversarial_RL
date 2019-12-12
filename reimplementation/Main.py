@@ -71,3 +71,4 @@ if __name__ == '__main__':
     parser.add_argument('--mode', help='learning rate between two agent', default='linear')  # constant linear and asym
     args = parser.parse_args()
     train(args)
+    print('the train is finished')
