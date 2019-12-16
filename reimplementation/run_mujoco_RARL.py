@@ -1,5 +1,6 @@
 """
 Training script for RARL framework
+Reading and unstanding line by line
 """
 
 import argparse
